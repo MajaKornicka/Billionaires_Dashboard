@@ -34,6 +34,6 @@ https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
 <li> Among all billionaires, only 14% are women. The industries in which they thrive are Gambling & Casinos (40% female), Food & Beverage (27% female) and Construction and Engineering (25% female).
 
-<li> The highest average age is found in Sports (78 years old) and the lowest in Technology (60 years old).
+<li> The highest average age is found in Sports (78 years) and the lowest in Technology (60 years).
 
 <li> The richest man is Bernard Arnault (total wealth: $211 000 million), who has become rich in the Fashion & Retail industry. He owns many luxury brands such as Dior, Louis Vuitton, Marc Jacobs or Givenchy. In second place we have Bill Gates with $208 000 million - the creator of Microsoft (Technology), followed by  the automotive representative Elon Musk responsible for Tesla and SpaceX with total wealth of $180 000 million.
