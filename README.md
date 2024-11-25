@@ -25,15 +25,14 @@ https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 
 ### Results
 
-<li> Billionaires are mostly men in their late 60's. The average age is 69 and only 14% of all billionaires are women.
+<li> Billionaires are mostly men in their late 60's. The average age is 69 and 85% of all billionaires are men.
 <li> The top industries in which billionaires make money are Finance & Investments (16%), Technology (13%) and Fashion & Retail (11%). 
-<li> The average wealth of a billionaire is $15 011 million. The highest average can be seen in Telecom ($32 475 million), Automotive ($24 825 million) and Technology ($22 282 million) industries. The lowest in Real Estate ($8 108 million), Construction & Engineering ($8 275 million) and Service ($8 527 million).
+<li> The average wealth of a billionaire is $15 011 million. The highest average can be seen in following industries: Telecom ($32 475 million - average among only 4 people!), Automotive ($24 825 million - average among 16 people) and Technology ($22 282 million - average among 63 people). 
 
 <li> About 65% of billionaires are self-made. The most popular industries among self-made men are Finance & Investments, Technology and Manufacturing, while for self-made women are Technology, Fashion & Retail and Healthcare.
-<li> Self-made billionaires are more diverse in terms of age and wealth level, while inherited fortunes are more concentrated among older individuals. However, there are 2 prominent industries, where all of the billionaires are self-made: Sports and Telecom.
+<li> Self-made billionaires are more diverse in terms of age and wealth level, while inherited fortunes are more concentrated among older individuals. 
 
-<li> Among all billionaires, only 14% are women. The industries in which they thrive are Gambling & Casinos (40% female), Food & Beverage (27% female) and Construction and Engineering (25% female).
-
-<li> The highest average age is found in Sports (78 years) and the lowest in Technology (60 years).
+<li> Among all billionaires, only 14% (69 individuals) are women. Giving the low number of individuals these results may be statistically irrelevant, but the industries in which they thrive are Gambling & Casinos (40% female), Food & Beverage (27% female) and Construction and Engineering (25% female). 
+<li> The highest average age is found in Sports: 78 years (but there are only 5 repesentatives of this industry, so it's a very small sample) and the lowest in Technology: 60 years.
 
 <li> The richest man is Bernard Arnault (total wealth: $211 000 million), who has become rich in the Fashion & Retail industry. He owns many luxury brands such as Dior, Louis Vuitton, Marc Jacobs or Givenchy. In second place we have Bill Gates with $208 000 million - the creator of Microsoft (Technology), followed by  the automotive representative Elon Musk responsible for Tesla and SpaceX with total wealth of $180 000 million.
