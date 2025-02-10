@@ -1,10 +1,7 @@
 # 481 Billionaires People Overview Dashboard
 
-<img 
-   src="https://github.com/user-attachments/assets/1eb55af6-abb7-4cd6-a3d1-9a9b16e8aaea"
-   alt="billionaires dashboard" 
-   width="1100" 
-   height="auto">
+![image](https://github.com/user-attachments/assets/252a0d25-8c30-4d16-a219-e9fae1829f2d)
+
 
    
 ### Project overview and questions for analysis
